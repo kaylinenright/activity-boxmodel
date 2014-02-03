@@ -44,7 +44,7 @@ html {
     
     /* Controls the default font size */
     font-size: 100%; /* 100% = 16v px = 1 rem */ 
-    font-family:Georgia, Times, serif'
+    font-family:Georgia, Times, serif
 }
 
 
@@ -72,10 +72,6 @@ body {
     height: 5.5rem;
     width:auto;
     margin: 0rem %
-/*float: right; */
-  
-    /* display: block;
-    margin: .5rem auto; */
 }
 
 article {
